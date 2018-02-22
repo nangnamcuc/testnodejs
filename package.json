@@ -1,0 +1,26 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "test thoi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nangnamcuc/testnodejs.git"
+  },
+  "keywords": [
+    "tst",
+    "nodejs"
+  ],
+  "author": "ta dai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nangnamcuc/testnodejs/issues"
+  },
+  "homepage": "https://github.com/nangnamcuc/testnodejs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
